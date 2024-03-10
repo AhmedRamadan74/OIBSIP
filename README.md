@@ -1,2 +1,2 @@
-# OIBSIP
-solution all tasks in OIBSIP internship
+# Oasis Infobyte
+solution all tasks in Oasis Infobyte internship
